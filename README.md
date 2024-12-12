@@ -283,7 +283,7 @@ section{
 ```
 # OUTPUT:
 ![alt text](<Screenshot (102).png>)
-![alt text](<Screenshot (104).png>)
+
 ![alt text](<Screenshot (103).png>)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
